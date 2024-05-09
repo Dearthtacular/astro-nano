@@ -2,14 +2,14 @@
 title: "Ruckus"
 description: "A social media app that includes features found in contemporary apps."
 date: "Apr 17 2024"
-demoURL: "https://cookstagram.onrender.com/login"
+demoURL: "https://ruckus.onrender.com/"
 repoURL: "https://github.com/Dearthtacular/Ruckus"
 ---
 
 <!-- ![Astro Sphere Lighthouse Score](/astro-sphere.jpg)<a href="//imgur.com/a/GK3eiZT"> -->
 ![Ruckus Home](https://i.imgur.com/ck1UfuE.png)
 <br>
-![Ruckus Authenticated Main Feed](https://i.imgur.com/ck1UfuE.png)
+![Ruckus Authenticated Main Feed](https://i.imgur.com/9KZN5lq.png)
 <br>
 ![Ruckus User Profile](https://i.imgur.com/U9qdqKt.png)
 <br>

@@ -10,7 +10,7 @@ export const SITE: Site = {
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "Welcome to my Jonathan Cover's portfolio.",
+  DESCRIPTION: "Welcome to Jonathan Cover's portfolio.",
 };
 
 export const BLOG: Metadata = {
@@ -20,7 +20,7 @@ export const BLOG: Metadata = {
 
 export const WORK: Metadata = {
   TITLE: "Work",
-  DESCRIPTION: "Where I have worked and what I have done.",
+  DESCRIPTION: "Where I have worked and what I have done for the last 13 years.",
 };
 
 export const PROJECTS: Metadata = {

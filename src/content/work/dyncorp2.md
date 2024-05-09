@@ -5,4 +5,4 @@ dateStart: "09/01/2017"
 dateEnd: "01/05/2021"
 ---
 
-This was my second stint working for a defense contractor in Kandahar, Afghanistan.  I wrote proposals that resulted in over $60M of added revenue to the company.  The US Government is a tough customer with highly regimented processes and legal requirements.  Despite the physical danger and a 13/7 schedule, this was a highly rewarding experience.
+This was my second stint working for a defense contractor in Kandahar, Afghanistan.  I wrote proposals that resulted in over $60M of added revenue to the company.
