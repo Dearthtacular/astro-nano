@@ -17,8 +17,7 @@ repoURL: "https://github.com/Dearthtacular/Cookstagram"
 
 MongoDB | Mongoose | Express.js | Node.js | React | AWS | JWT | Semantic UI
 
-Cookstagram is a simplified social media application focused on the creation and posting of recipes.  User have delete functionality available through
-their own authenticated profile.  Recipe cards include a collapsible display to get greater view economy out of the main feed and profile pages.
+Cookstagram is a simplified social media application focused on the creation and posting of recipes.  Users have delete functionality available through their own authenticated profile.  Recipe cards include a collapsible display to get greater view economy out of the main feed and profile pages.
 
 Note:  App is deployed on Render.io which may take greater time to load based on last use. 
 
